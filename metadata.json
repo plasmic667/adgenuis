@@ -1,0 +1,8 @@
+{
+  "name": "AdGenius AI - AI Advertising Studio",
+  "description": "Turn Ideas Into Ads That Sell. AI advertising assistant for small businesses, online sellers, and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
